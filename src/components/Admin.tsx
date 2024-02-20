@@ -1,7 +1,7 @@
 const Student = () => {
     return (
       <div>
-        Student
+        Admin
       </div>
     );
   };
